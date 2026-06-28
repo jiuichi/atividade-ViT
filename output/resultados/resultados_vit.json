@@ -1,0 +1,520 @@
+[
+  {
+    "image_name": "Carro",
+    "url": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/carro.jpg",
+    "model_label": "ViT Base",
+    "model_name": "google/vit-base-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "sports car, sport car",
+    "top1_confidence_percent": 81.38646483421326,
+    "model_load_time_seconds": 90.10060548782349,
+    "inference_time_seconds": 0.1888716220855713,
+    "top5_predictions": [
+      {
+        "classe": "sports car, sport car",
+        "confianca_percentual": 81.38646483421326
+      },
+      {
+        "classe": "grille, radiator grille",
+        "confianca_percentual": 8.805981278419495
+      },
+      {
+        "classe": "car wheel",
+        "confianca_percentual": 3.7627335637807846
+      },
+      {
+        "classe": "convertible",
+        "confianca_percentual": 3.747481480240822
+      },
+      {
+        "classe": "racer, race car, racing car",
+        "confianca_percentual": 0.9551385417580605
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"sports car, sport car\", \"confianca_percentual\": 81.38646483421326}, {\"classe\": \"grille, radiator grille\", \"confianca_percentual\": 8.805981278419495}, {\"classe\": \"car wheel\", \"confianca_percentual\": 3.7627335637807846}, {\"classe\": \"convertible\", \"confianca_percentual\": 3.747481480240822}, {\"classe\": \"racer, race car, racing car\", \"confianca_percentual\": 0.9551385417580605}]"
+  },
+  {
+    "image_name": "Carro",
+    "url": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/carro.jpg",
+    "model_label": "ViT Large",
+    "model_name": "google/vit-large-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "sports car, sport car",
+    "top1_confidence_percent": 57.983529567718506,
+    "model_load_time_seconds": 266.0799880027771,
+    "inference_time_seconds": 0.592853307723999,
+    "top5_predictions": [
+      {
+        "classe": "sports car, sport car",
+        "confianca_percentual": 57.983529567718506
+      },
+      {
+        "classe": "grille, radiator grille",
+        "confianca_percentual": 26.44801437854767
+      },
+      {
+        "classe": "car wheel",
+        "confianca_percentual": 3.8926903158426285
+      },
+      {
+        "classe": "racer, race car, racing car",
+        "confianca_percentual": 3.8061991333961487
+      },
+      {
+        "classe": "convertible",
+        "confianca_percentual": 1.568414643406868
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"sports car, sport car\", \"confianca_percentual\": 57.983529567718506}, {\"classe\": \"grille, radiator grille\", \"confianca_percentual\": 26.44801437854767}, {\"classe\": \"car wheel\", \"confianca_percentual\": 3.8926903158426285}, {\"classe\": \"racer, race car, racing car\", \"confianca_percentual\": 3.8061991333961487}, {\"classe\": \"convertible\", \"confianca_percentual\": 1.568414643406868}]"
+  },
+  {
+    "image_name": "Bicicleta",
+    "url": "https://images.unsplash.com/photo-1541625602330-2277a4c46182",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/bicicleta.jpg",
+    "model_label": "ViT Base",
+    "model_name": "google/vit-base-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "mountain bike, all-terrain bike, off-roader",
+    "top1_confidence_percent": 72.99800515174866,
+    "model_load_time_seconds": 90.10060548782349,
+    "inference_time_seconds": 0.18384170532226562,
+    "top5_predictions": [
+      {
+        "classe": "mountain bike, all-terrain bike, off-roader",
+        "confianca_percentual": 72.99800515174866
+      },
+      {
+        "classe": "bicycle-built-for-two, tandem bicycle, tandem",
+        "confianca_percentual": 15.77148586511612
+      },
+      {
+        "classe": "seashore, coast, seacoast, sea-coast",
+        "confianca_percentual": 2.646833471953869
+      },
+      {
+        "classe": "crash helmet",
+        "confianca_percentual": 0.7788680959492922
+      },
+      {
+        "classe": "sandbar, sand bar",
+        "confianca_percentual": 0.7650231011211872
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"mountain bike, all-terrain bike, off-roader\", \"confianca_percentual\": 72.99800515174866}, {\"classe\": \"bicycle-built-for-two, tandem bicycle, tandem\", \"confianca_percentual\": 15.77148586511612}, {\"classe\": \"seashore, coast, seacoast, sea-coast\", \"confianca_percentual\": 2.646833471953869}, {\"classe\": \"crash helmet\", \"confianca_percentual\": 0.7788680959492922}, {\"classe\": \"sandbar, sand bar\", \"confianca_percentual\": 0.7650231011211872}]"
+  },
+  {
+    "image_name": "Bicicleta",
+    "url": "https://images.unsplash.com/photo-1541625602330-2277a4c46182",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/bicicleta.jpg",
+    "model_label": "ViT Large",
+    "model_name": "google/vit-large-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "seashore, coast, seacoast, sea-coast",
+    "top1_confidence_percent": 37.05851435661316,
+    "model_load_time_seconds": 266.0799880027771,
+    "inference_time_seconds": 0.5843005180358887,
+    "top5_predictions": [
+      {
+        "classe": "seashore, coast, seacoast, sea-coast",
+        "confianca_percentual": 37.05851435661316
+      },
+      {
+        "classe": "bicycle-built-for-two, tandem bicycle, tandem",
+        "confianca_percentual": 33.68724584579468
+      },
+      {
+        "classe": "mountain bike, all-terrain bike, off-roader",
+        "confianca_percentual": 11.872240155935287
+      },
+      {
+        "classe": "sandbar, sand bar",
+        "confianca_percentual": 3.15648689866066
+      },
+      {
+        "classe": "lakeside, lakeshore",
+        "confianca_percentual": 1.59439817070961
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"seashore, coast, seacoast, sea-coast\", \"confianca_percentual\": 37.05851435661316}, {\"classe\": \"bicycle-built-for-two, tandem bicycle, tandem\", \"confianca_percentual\": 33.68724584579468}, {\"classe\": \"mountain bike, all-terrain bike, off-roader\", \"confianca_percentual\": 11.872240155935287}, {\"classe\": \"sandbar, sand bar\", \"confianca_percentual\": 3.15648689866066}, {\"classe\": \"lakeside, lakeshore\", \"confianca_percentual\": 1.59439817070961}]"
+  },
+  {
+    "image_name": "Cachorro",
+    "url": "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/cachorro.jpg",
+    "model_label": "ViT Base",
+    "model_name": "google/vit-base-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "pug, pug-dog",
+    "top1_confidence_percent": 82.3811411857605,
+    "model_load_time_seconds": 90.10060548782349,
+    "inference_time_seconds": 0.1666417121887207,
+    "top5_predictions": [
+      {
+        "classe": "pug, pug-dog",
+        "confianca_percentual": 82.3811411857605
+      },
+      {
+        "classe": "stole",
+        "confianca_percentual": 4.7750987112522125
+      },
+      {
+        "classe": "bull mastiff",
+        "confianca_percentual": 4.099339246749878
+      },
+      {
+        "classe": "poncho",
+        "confianca_percentual": 1.014090795069933
+      },
+      {
+        "classe": "French bulldog",
+        "confianca_percentual": 0.6646397523581982
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"pug, pug-dog\", \"confianca_percentual\": 82.3811411857605}, {\"classe\": \"stole\", \"confianca_percentual\": 4.7750987112522125}, {\"classe\": \"bull mastiff\", \"confianca_percentual\": 4.099339246749878}, {\"classe\": \"poncho\", \"confianca_percentual\": 1.014090795069933}, {\"classe\": \"French bulldog\", \"confianca_percentual\": 0.6646397523581982}]"
+  },
+  {
+    "image_name": "Cachorro",
+    "url": "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/cachorro.jpg",
+    "model_label": "ViT Large",
+    "model_name": "google/vit-large-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "Brabancon griffon",
+    "top1_confidence_percent": 62.21417784690857,
+    "model_load_time_seconds": 266.0799880027771,
+    "inference_time_seconds": 0.5810520648956299,
+    "top5_predictions": [
+      {
+        "classe": "Brabancon griffon",
+        "confianca_percentual": 62.21417784690857
+      },
+      {
+        "classe": "pug, pug-dog",
+        "confianca_percentual": 18.62737387418747
+      },
+      {
+        "classe": "Staffordshire bullterrier, Staffordshire bull terrier",
+        "confianca_percentual": 2.7142809703946114
+      },
+      {
+        "classe": "boxer",
+        "confianca_percentual": 1.8922127783298492
+      },
+      {
+        "classe": "bull mastiff",
+        "confianca_percentual": 1.368424016982317
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"Brabancon griffon\", \"confianca_percentual\": 62.21417784690857}, {\"classe\": \"pug, pug-dog\", \"confianca_percentual\": 18.62737387418747}, {\"classe\": \"Staffordshire bullterrier, Staffordshire bull terrier\", \"confianca_percentual\": 2.7142809703946114}, {\"classe\": \"boxer\", \"confianca_percentual\": 1.8922127783298492}, {\"classe\": \"bull mastiff\", \"confianca_percentual\": 1.368424016982317}]"
+  },
+  {
+    "image_name": "Praia",
+    "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/praia.jpg",
+    "model_label": "ViT Base",
+    "model_name": "google/vit-base-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "seashore, coast, seacoast, sea-coast",
+    "top1_confidence_percent": 91.34345054626465,
+    "model_load_time_seconds": 90.10060548782349,
+    "inference_time_seconds": 0.18041324615478516,
+    "top5_predictions": [
+      {
+        "classe": "seashore, coast, seacoast, sea-coast",
+        "confianca_percentual": 91.34345054626465
+      },
+      {
+        "classe": "sandbar, sand bar",
+        "confianca_percentual": 4.089273139834404
+      },
+      {
+        "classe": "lakeside, lakeshore",
+        "confianca_percentual": 1.1245769448578358
+      },
+      {
+        "classe": "promontory, headland, head, foreland",
+        "confianca_percentual": 0.5968420766294003
+      },
+      {
+        "classe": "conch",
+        "confianca_percentual": 0.5197626072913408
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"seashore, coast, seacoast, sea-coast\", \"confianca_percentual\": 91.34345054626465}, {\"classe\": \"sandbar, sand bar\", \"confianca_percentual\": 4.089273139834404}, {\"classe\": \"lakeside, lakeshore\", \"confianca_percentual\": 1.1245769448578358}, {\"classe\": \"promontory, headland, head, foreland\", \"confianca_percentual\": 0.5968420766294003}, {\"classe\": \"conch\", \"confianca_percentual\": 0.5197626072913408}]"
+  },
+  {
+    "image_name": "Praia",
+    "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/praia.jpg",
+    "model_label": "ViT Large",
+    "model_name": "google/vit-large-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "seashore, coast, seacoast, sea-coast",
+    "top1_confidence_percent": 71.13401889801025,
+    "model_load_time_seconds": 266.0799880027771,
+    "inference_time_seconds": 0.6152276992797852,
+    "top5_predictions": [
+      {
+        "classe": "seashore, coast, seacoast, sea-coast",
+        "confianca_percentual": 71.13401889801025
+      },
+      {
+        "classe": "conch",
+        "confianca_percentual": 15.033896267414093
+      },
+      {
+        "classe": "sandbar, sand bar",
+        "confianca_percentual": 6.525199860334396
+      },
+      {
+        "classe": "starfish, sea star",
+        "confianca_percentual": 1.392226479947567
+      },
+      {
+        "classe": "lakeside, lakeshore",
+        "confianca_percentual": 0.6048770155757666
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"seashore, coast, seacoast, sea-coast\", \"confianca_percentual\": 71.13401889801025}, {\"classe\": \"conch\", \"confianca_percentual\": 15.033896267414093}, {\"classe\": \"sandbar, sand bar\", \"confianca_percentual\": 6.525199860334396}, {\"classe\": \"starfish, sea star\", \"confianca_percentual\": 1.392226479947567}, {\"classe\": \"lakeside, lakeshore\", \"confianca_percentual\": 0.6048770155757666}]"
+  },
+  {
+    "image_name": "Floresta",
+    "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/floresta.jpg",
+    "model_label": "ViT Base",
+    "model_name": "google/vit-base-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "mountain tent",
+    "top1_confidence_percent": 29.3398916721344,
+    "model_load_time_seconds": 90.10060548782349,
+    "inference_time_seconds": 0.19923758506774902,
+    "top5_predictions": [
+      {
+        "classe": "mountain tent",
+        "confianca_percentual": 29.3398916721344
+      },
+      {
+        "classe": "lakeside, lakeshore",
+        "confianca_percentual": 11.494122445583344
+      },
+      {
+        "classe": "boathouse",
+        "confianca_percentual": 5.978135392069817
+      },
+      {
+        "classe": "yurt",
+        "confianca_percentual": 5.103670433163643
+      },
+      {
+        "classe": "valley, vale",
+        "confianca_percentual": 3.3356159925460815
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"mountain tent\", \"confianca_percentual\": 29.3398916721344}, {\"classe\": \"lakeside, lakeshore\", \"confianca_percentual\": 11.494122445583344}, {\"classe\": \"boathouse\", \"confianca_percentual\": 5.978135392069817}, {\"classe\": \"yurt\", \"confianca_percentual\": 5.103670433163643}, {\"classe\": \"valley, vale\", \"confianca_percentual\": 3.3356159925460815}]"
+  },
+  {
+    "image_name": "Floresta",
+    "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/floresta.jpg",
+    "model_label": "ViT Large",
+    "model_name": "google/vit-large-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "lakeside, lakeshore",
+    "top1_confidence_percent": 14.650365710258484,
+    "model_load_time_seconds": 266.0799880027771,
+    "inference_time_seconds": 0.5964534282684326,
+    "top5_predictions": [
+      {
+        "classe": "lakeside, lakeshore",
+        "confianca_percentual": 14.650365710258484
+      },
+      {
+        "classe": "viaduct",
+        "confianca_percentual": 5.4092541337013245
+      },
+      {
+        "classe": "cloak",
+        "confianca_percentual": 3.2228700816631317
+      },
+      {
+        "classe": "valley, vale",
+        "confianca_percentual": 2.5503182783722878
+      },
+      {
+        "classe": "seashore, coast, seacoast, sea-coast",
+        "confianca_percentual": 2.3062046617269516
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"lakeside, lakeshore\", \"confianca_percentual\": 14.650365710258484}, {\"classe\": \"viaduct\", \"confianca_percentual\": 5.4092541337013245}, {\"classe\": \"cloak\", \"confianca_percentual\": 3.2228700816631317}, {\"classe\": \"valley, vale\", \"confianca_percentual\": 2.5503182783722878}, {\"classe\": \"seashore, coast, seacoast, sea-coast\", \"confianca_percentual\": 2.3062046617269516}]"
+  },
+  {
+    "image_name": "Rua urbana",
+    "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/rua_urbana.jpg",
+    "model_label": "ViT Base",
+    "model_name": "google/vit-base-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "lakeside, lakeshore",
+    "top1_confidence_percent": 33.7957501411438,
+    "model_load_time_seconds": 90.10060548782349,
+    "inference_time_seconds": 0.1696794033050537,
+    "top5_predictions": [
+      {
+        "classe": "lakeside, lakeshore",
+        "confianca_percentual": 33.7957501411438
+      },
+      {
+        "classe": "seashore, coast, seacoast, sea-coast",
+        "confianca_percentual": 26.9088476896286
+      },
+      {
+        "classe": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "confianca_percentual": 7.208212465047836
+      },
+      {
+        "classe": "promontory, headland, head, foreland",
+        "confianca_percentual": 4.976238310337067
+      },
+      {
+        "classe": "pier",
+        "confianca_percentual": 2.239049971103668
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"lakeside, lakeshore\", \"confianca_percentual\": 33.7957501411438}, {\"classe\": \"seashore, coast, seacoast, sea-coast\", \"confianca_percentual\": 26.9088476896286}, {\"classe\": \"breakwater, groin, groyne, mole, bulwark, seawall, jetty\", \"confianca_percentual\": 7.208212465047836}, {\"classe\": \"promontory, headland, head, foreland\", \"confianca_percentual\": 4.976238310337067}, {\"classe\": \"pier\", \"confianca_percentual\": 2.239049971103668}]"
+  },
+  {
+    "image_name": "Rua urbana",
+    "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/rua_urbana.jpg",
+    "model_label": "ViT Large",
+    "model_name": "google/vit-large-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "lakeside, lakeshore",
+    "top1_confidence_percent": 62.564122676849365,
+    "model_load_time_seconds": 266.0799880027771,
+    "inference_time_seconds": 0.5942401885986328,
+    "top5_predictions": [
+      {
+        "classe": "lakeside, lakeshore",
+        "confianca_percentual": 62.564122676849365
+      },
+      {
+        "classe": "seashore, coast, seacoast, sea-coast",
+        "confianca_percentual": 16.767826676368713
+      },
+      {
+        "classe": "promontory, headland, head, foreland",
+        "confianca_percentual": 2.5397196412086487
+      },
+      {
+        "classe": "airship, dirigible",
+        "confianca_percentual": 1.9506106153130531
+      },
+      {
+        "classe": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "confianca_percentual": 1.7227036878466606
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"lakeside, lakeshore\", \"confianca_percentual\": 62.564122676849365}, {\"classe\": \"seashore, coast, seacoast, sea-coast\", \"confianca_percentual\": 16.767826676368713}, {\"classe\": \"promontory, headland, head, foreland\", \"confianca_percentual\": 2.5397196412086487}, {\"classe\": \"airship, dirigible\", \"confianca_percentual\": 1.9506106153130531}, {\"classe\": \"breakwater, groin, groyne, mole, bulwark, seawall, jetty\", \"confianca_percentual\": 1.7227036878466606}]"
+  },
+  {
+    "image_name": "Laboratorio",
+    "url": "https://images.unsplash.com/photo-1532187643603-ba119ca4109e",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/laboratorio.jpg",
+    "model_label": "ViT Base",
+    "model_name": "google/vit-base-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "beaker",
+    "top1_confidence_percent": 99.41761493682861,
+    "model_load_time_seconds": 90.10060548782349,
+    "inference_time_seconds": 0.1831531524658203,
+    "top5_predictions": [
+      {
+        "classe": "beaker",
+        "confianca_percentual": 99.41761493682861
+      },
+      {
+        "classe": "Petri dish",
+        "confianca_percentual": 0.1989214215427637
+      },
+      {
+        "classe": "lab coat, laboratory coat",
+        "confianca_percentual": 0.08147116750478745
+      },
+      {
+        "classe": "oxygen mask",
+        "confianca_percentual": 0.05431315512396395
+      },
+      {
+        "classe": "measuring cup",
+        "confianca_percentual": 0.03163045330438763
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"beaker\", \"confianca_percentual\": 99.41761493682861}, {\"classe\": \"Petri dish\", \"confianca_percentual\": 0.1989214215427637}, {\"classe\": \"lab coat, laboratory coat\", \"confianca_percentual\": 0.08147116750478745}, {\"classe\": \"oxygen mask\", \"confianca_percentual\": 0.05431315512396395}, {\"classe\": \"measuring cup\", \"confianca_percentual\": 0.03163045330438763}]"
+  },
+  {
+    "image_name": "Laboratorio",
+    "url": "https://images.unsplash.com/photo-1532187643603-ba119ca4109e",
+    "downloaded_image_path": "/home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/laboratorio.jpg",
+    "model_label": "ViT Large",
+    "model_name": "google/vit-large-patch16-224",
+    "device": "cpu",
+    "status": "ok",
+    "error": "",
+    "predicted_class": "beaker",
+    "top1_confidence_percent": 98.78469705581665,
+    "model_load_time_seconds": 266.0799880027771,
+    "inference_time_seconds": 0.5977258682250977,
+    "top5_predictions": [
+      {
+        "classe": "beaker",
+        "confianca_percentual": 98.78469705581665
+      },
+      {
+        "classe": "lab coat, laboratory coat",
+        "confianca_percentual": 0.5299851763993502
+      },
+      {
+        "classe": "Petri dish",
+        "confianca_percentual": 0.42801168747246265
+      },
+      {
+        "classe": "measuring cup",
+        "confianca_percentual": 0.04793110419996083
+      },
+      {
+        "classe": "scale, weighing machine",
+        "confianca_percentual": 0.008815215551294386
+      }
+    ],
+    "top5_predictions_json": "[{\"classe\": \"beaker\", \"confianca_percentual\": 98.78469705581665}, {\"classe\": \"lab coat, laboratory coat\", \"confianca_percentual\": 0.5299851763993502}, {\"classe\": \"Petri dish\", \"confianca_percentual\": 0.42801168747246265}, {\"classe\": \"measuring cup\", \"confianca_percentual\": 0.04793110419996083}, {\"classe\": \"scale, weighing machine\", \"confianca_percentual\": 0.008815215551294386}]"
+  }
+]

@@ -1,0 +1,9 @@
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.38.2
+pillow==10.4.0
+requests==2.32.4
+matplotlib==3.7.5
+python-docx==1.1.2
+pandas==2.0.3
+tqdm==4.67.1

@@ -1,0 +1,35 @@
+2026-06-26 14:58:31 | INFO | Dispositivo detectado: cpu
+2026-06-26 14:58:31 | INFO | Carregando ViT Base (google/vit-base-patch16-224)...
+2026-06-26 15:00:01 | INFO | Modelo google/vit-base-patch16-224 carregado em 90.1006 s no dispositivo cpu
+2026-06-26 15:00:01 | INFO | Carregando ViT Large (google/vit-large-patch16-224)...
+2026-06-26 15:04:28 | INFO | Modelo google/vit-large-patch16-224 carregado em 266.0800 s no dispositivo cpu
+2026-06-26 15:04:28 | INFO | Baixando imagem Carro (https://images.unsplash.com/photo-1492144534655-ae79c964c9d7)
+2026-06-26 15:04:28 | INFO | Imagem salva em /home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/carro.jpg
+2026-06-26 15:04:28 | INFO | Imagem=Carro | Modelo=ViT Base | Classe=sports car, sport car | Confianca=81.39% | Inferencia=0.1889 s
+2026-06-26 15:04:29 | INFO | Imagem=Carro | Modelo=ViT Large | Classe=sports car, sport car | Confianca=57.98% | Inferencia=0.5929 s
+2026-06-26 15:04:29 | INFO | Baixando imagem Bicicleta (https://images.unsplash.com/photo-1541625602330-2277a4c46182)
+2026-06-26 15:04:30 | INFO | Imagem salva em /home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/bicicleta.jpg
+2026-06-26 15:04:30 | INFO | Imagem=Bicicleta | Modelo=ViT Base | Classe=mountain bike, all-terrain bike, off-roader | Confianca=73.00% | Inferencia=0.1838 s
+2026-06-26 15:04:31 | INFO | Imagem=Bicicleta | Modelo=ViT Large | Classe=seashore, coast, seacoast, sea-coast | Confianca=37.06% | Inferencia=0.5843 s
+2026-06-26 15:04:31 | INFO | Baixando imagem Cachorro (https://images.unsplash.com/photo-1517849845537-4d257902454a)
+2026-06-26 15:04:32 | INFO | Imagem salva em /home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/cachorro.jpg
+2026-06-26 15:04:32 | INFO | Imagem=Cachorro | Modelo=ViT Base | Classe=pug, pug-dog | Confianca=82.38% | Inferencia=0.1666 s
+2026-06-26 15:04:33 | INFO | Imagem=Cachorro | Modelo=ViT Large | Classe=Brabancon griffon | Confianca=62.21% | Inferencia=0.5811 s
+2026-06-26 15:04:33 | INFO | Baixando imagem Praia (https://images.unsplash.com/photo-1507525428034-b723cf961d3e)
+2026-06-26 15:04:33 | INFO | Imagem salva em /home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/praia.jpg
+2026-06-26 15:04:33 | INFO | Imagem=Praia | Modelo=ViT Base | Classe=seashore, coast, seacoast, sea-coast | Confianca=91.34% | Inferencia=0.1804 s
+2026-06-26 15:04:34 | INFO | Imagem=Praia | Modelo=ViT Large | Classe=seashore, coast, seacoast, sea-coast | Confianca=71.13% | Inferencia=0.6152 s
+2026-06-26 15:04:34 | INFO | Baixando imagem Floresta (https://images.unsplash.com/photo-1441974231531-c6227db76b6e)
+2026-06-26 15:04:35 | INFO | Imagem salva em /home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/floresta.jpg
+2026-06-26 15:04:35 | INFO | Imagem=Floresta | Modelo=ViT Base | Classe=mountain tent | Confianca=29.34% | Inferencia=0.1992 s
+2026-06-26 15:04:35 | INFO | Imagem=Floresta | Modelo=ViT Large | Classe=lakeside, lakeshore | Confianca=14.65% | Inferencia=0.5965 s
+2026-06-26 15:04:35 | INFO | Baixando imagem Rua urbana (https://images.unsplash.com/photo-1477959858617-67f85cf4f1df)
+2026-06-26 15:04:36 | INFO | Imagem salva em /home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/rua_urbana.jpg
+2026-06-26 15:04:36 | INFO | Imagem=Rua urbana | Modelo=ViT Base | Classe=lakeside, lakeshore | Confianca=33.80% | Inferencia=0.1697 s
+2026-06-26 15:04:37 | INFO | Imagem=Rua urbana | Modelo=ViT Large | Classe=lakeside, lakeshore | Confianca=62.56% | Inferencia=0.5942 s
+2026-06-26 15:04:37 | INFO | Baixando imagem Laboratorio (https://images.unsplash.com/photo-1532187643603-ba119ca4109e)
+2026-06-26 15:04:38 | INFO | Imagem salva em /home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/imagens/laboratorio.jpg
+2026-06-26 15:04:38 | INFO | Imagem=Laboratorio | Modelo=ViT Base | Classe=beaker | Confianca=99.42% | Inferencia=0.1832 s
+2026-06-26 15:04:39 | INFO | Imagem=Laboratorio | Modelo=ViT Large | Classe=beaker | Confianca=98.78% | Inferencia=0.5977 s
+2026-06-26 15:04:39 | INFO | Resultados salvos em /home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/resultados/resultados_vit.csv e /home/jpdrlopes/Documentos/JogodaMemoria/vit_relatorio/output/resultados/resultados_vit.json
+2026-06-26 15:04:39 | INFO | Execucao finalizada com 14 sucessos e 0 falhas
